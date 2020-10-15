@@ -1,6 +1,10 @@
 ### Hi there 👋
 ## Welcome to Dhaval Patel's GitHub
 
+[![Linkedin Badge](https://img.shields.io/badge/-dhavalpatel290-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dhavalpatel290/)](https://www.linkedin.com/in/dhavalpatel290/) 
+[![Twitter Badge](http://img.shields.io/badge/-@dhavalpatel290?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/dhavalpatel290)](https://twitter.com/dhavalpatel290) 
+[![GitHub followers](https://img.shields.io/github/followers/dhavalpatel290?label=Follow&style=social)](https://github.com/dhavalpatel290/?tab=follow) 
+[![Gmail Badge](https://img.shields.io/badge/-dhavalpatel290?style=social&logo=Gmail&logoColor=red&link=mailto:dhavalpatel290@gmail.com)](mailto:dhavalpatel290@gmail.com) 
 ![](https://komarev.com/ghpvc/?username=dhavalpatel290)
 
 
