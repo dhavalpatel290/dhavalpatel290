@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Cloud Technology, Data Engineering, Data Science, Machine Learning!**
 - 🤔 I’m looking for **Spring Internships starting Jan 2021 and also looking for Full Time positions starting May 2021 as a Software/Cloud/Data Engineer.**
 - 💬 Ask me about **Python, SQL, AWS, Airflow.**
-- 📫 How to reach me: **You can reach out to me at dhavalpatel290@gmail.com [Personal] or at dhaval.j.patel@nyu.edu [Academic]**
+- 📫 How to reach me: **[Personal](mailto:dhavalpatel290@gmail.com) | [Academic](mailto:dhaval.j.patel@nyu.edu)**
 - 😄 Pronouns: **DAH-vel puh-TEL**
 - ⚡ Fun fact: **I do Ice-Skating and Roller Skating**
 
