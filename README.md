@@ -4,10 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=dhavalpatel290)
 
 
-- 🔭 I’m currently a Computer Science Graduate Student and a data enthusiast. I worked as a Cloud Technology Intern at HBO-WarnerMedia over Summer 2020 where I was working on AWS, Airflow, Grafana, Snowflake etc to help Data Engineering, Data Science and Cloud Infrastructure teams.
+- 🔭 I’m currently a Computer Science Graduate Student and a data enthusiast. I worked as a Cloud Technology Intern at HBO-WarnerMedia over Summer 2020 where I was working on AWS, Airflow, Grafana, Snowflake etc. to help Data Engineering, Data Science and Cloud Infrastructure teams.
 - 👯 I’m looking to collaborate on **Cloud Technology, Data Engineering, Data Science, Machine Learning!**
 - 🤔 I’m looking for **Spring Internship/Co-Op starting Jan 2021 and also looking for Full Time positions starting May 2021 as a Cloud/Data/Software Engineer.**
-- 💬 Ask me about **How companies are using Cloud for Big Data.**
+- 💬 Ask me about **How companies are using Cloud for their Infrastructure and Big Data solutions.**
 - 📫 How to reach me: **[Personal](mailto:dhavalpatel290@gmail.com) | [Academic](mailto:dhaval.j.patel@nyu.edu)**
 - 😄 Pronouns: **DAH-vel puh-TEL**
 - ⚡ Fun fact: **I do Ice-Skating and Roller Skating**
