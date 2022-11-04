@@ -8,9 +8,10 @@
 ![](https://komarev.com/ghpvc/?username=dhavalpatel290)
 
 
-- 🔭 I just completed my Masters in Computer Science from New York University in May 2021. Currently I am working as Software Data Engineer in Lyft. I have worked as Data Engineer Intern in HBO Max-WarnerMedia for Spring 2021 and as Cloud Technology Intern in HBO-WarnerMedia over Summer 2020. 
+- 🔍 **In search of new endeavor in space of Software Engineering with focus on Data as side gig😊**
+- 🔭 I completed my Masters in Computer Science from New York University in May 2021. After graduation, I was working as Software Data Engineer in Lyft till Nov 2022 but was impacted by the [Lyft layoff](https://www.wsj.com/articles/lyft-plans-to-lay-off-hundreds-of-staffers-11667490092). I have worked as Data Engineer Intern in HBO Max-WarnerMedia for Spring 2021 and as Cloud Technology Intern in HBO-WarnerMedia over Summer 2020. 
 - 👯 I’m looking to collaborate on **Software Engineering, Data Science, Machine Learning, Cloud Technology!**
-- 🤔 I’m looking for **Data Nerds To Build Awsome Products.**
+- 🤔 I’m looking for **Data Nerds To Build Awesome Products.**
 - 💬 Ask me about **How companies are using Cloud for their Infrastructure and Big Data solutions.**
 - 📫 How to reach me: **[Personal](mailto:dhavalpatel290@gmail.com) | [Academic](mailto:dhaval.j.patel@nyu.edu)**
 - 😄 Pronouns: **DAH-vel puh-TEL**
