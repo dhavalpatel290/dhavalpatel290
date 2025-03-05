@@ -9,7 +9,7 @@
 
 
 - 🔍 **In search of new endeavor in space of Software Engineering with focus on Data as side gig😊**
-- 💻 Senior Data Engineer at CVS Health
+- 💻 Staff Data Engineer at CVS Health
 - 🔭 Little bit about myself. I completed my Masters in Computer Science from New York University in May 2021. After graduation, My first job was in Lyft where I was working as Software Data Engineer till Jan 2023. From Jan 2023, I am working in CVS Health as Senior Data Engineer where I help our awesome Data Scientist with Data. I have worked as Data Engineer Intern in HBO Max-WarnerMedia for Spring 2021 and as Cloud Technology Intern in HBO-WarnerMedia over Summer 2020. 
 - 👯 I’m looking to collaborate on **Software Engineering, Data Science, Machine Learning, Cloud Technology!**
 - 🤔 I’m looking for **Data Nerds To Build Awesome Products.**
